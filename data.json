@@ -1,0 +1,79 @@
+
+{
+    "timeline":
+    {
+        "headline":"The Bridgeton Landfill",
+        "type":"default",
+		"text":"A timeline",
+		"startDate":"2010,12,23",
+		"asset":
+		{
+			"media":"http://mediad.publicbroadcasting.net/p/kwmu/files/201305/Bridgeton_Landfill_DSC_0037.jpg",
+			"credit":"Veronique LaCapra, St. Louis Public Radio",
+			"caption":"Part of the Bridgeton Landfill"
+		},
+        "date": [
+            {
+                "startDate":"2010,12,23",
+                "headline":"Fire",
+                "text":"<p>Landfill experiences elevated temperatures, discovery of \"subsurface smoldering event\" a.k.a. fire.</p>",
+		"tag":"Landfill event"
+	    },
+            {
+                "startDate":"2012,3,1",
+		"endDate":"2012,4,1",
+                "headline":"Early Spring, 2012: Indicators rise",
+                "text":"<p>Increased odors noticed and subsidence levels begin to exceed expected levels.</p>",
+		"tag":"Landfill event"
+            },
+            {
+                "startDate":"2012,4,1",
+		"endDate":"2012,4,30",
+                "headline":"April, 2012: Meeting",
+                "text":"<p>Solid Waste and Republic began meeting to discuss the situation. After months, DHSS releases a report indicating concentrations of certain compounds merit additional sampling and corrective actions.</p>",
+		"tag":"Regulatory event"
+            },
+            {
+                "startDate":"2013,3,27",
+                "headline":"Lawsuit",
+                "text":"<p>Attorney General Chris Koster <a href='http://news.stlpublicradio.org/post/mo-attorney-general-files-suit-against-bridgeton-landfill-owners-environmental-grounds'>files a lawsuit</a> to ensure Republic Services completes actions to address environmental, odor problems.</p>"
+            },
+            {
+                "startDate":"2013,8,9",
+                "headline":"Capped",
+                "text":"<p>Cap on the landfill South Quarry complete.</p>",
+		"tag":"Landfill event"
+            },
+            {
+                "startDate":"2013,5,14",
+                "headline":"Remediation agreement",
+                "text":"<p><a href='http://news.stlpublicradio.org/post/agreement-reached-bridgeton-landfill-questions-still-remain'>Republic agrees to remediate the problem</a>.</p>",
+		"tag":"Regulatory event"
+            },
+            {
+                "startDate":"2013,12,10",
+                "headline":"Radioactivity",
+                "text":"<p><a href='http://news.stlpublicradio.org/post/more-radioactive-material-detected-west-lake-landfill'>More radioactive material detected at West Lake Landfill</a>.</p>",
+		"tag":"Landfill event"
+            },
+	    {
+		"startDate":"2013,1,17",
+		"headline":"More testing",
+		"text":"<p><a href='http://news.stlpublicradio.org/post/republic-services-will-expand-carbon-monoxide-testing-bridgeton-landfill'>Republic vows to expand carbon monoxide testing</a>.</p>",
+		"tag":"Regulatory event"
+	    },
+	    {
+		"startDate":"2014,2,15",
+		"headline":"EPA: 'Little risk'",
+		"text":"<p><a href='http://news.stlpublicradio.org/post/report-epa-says-underground-landfill-fire-poses-little-risk'>EPA says landfill fire poses little risk</a>.</p>",
+		"tag":"Regulatory event"
+	    },
+	    {
+		"startDate":"2014,2,16",
+		"headline":"Surface fire",
+		"text":"<p><a href='http://news.stlpublicradio.org/post/surface-fire-erupts-bridgeton-landfill-unrelated-underground-fire'>Surface fire erupts</a>.</p>",
+		"tag":"Landfill event"
+	    }
+        ]
+    }
+}
